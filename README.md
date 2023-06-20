@@ -26,7 +26,7 @@ MMFnet
 │   │   ├── label_2
 ```
 ### Model Preparation
-
+DGCNN is from https://github.com/muhanzhang/pytorch_DGCNN, and ResNet-34 is from https://github.com/GohVh/resnet34-unet.git.
 ### Training and Evaluation
 
 
