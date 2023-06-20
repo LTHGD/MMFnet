@@ -6,6 +6,7 @@ Fusing LiDAR and camera information is important for achieving accurate and reli
 ## Start
 ### Data Preparation
 The following directory structure will be seen:
+```
 MMFnet
 ├── dataset
 │   ├── ImageSets
@@ -23,4 +24,6 @@ MMFnet
 │   │   ├── image_2
 │   │   ├── velodyne
 │   │   ├── label_2
+```
+
 
