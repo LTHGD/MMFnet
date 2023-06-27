@@ -29,6 +29,7 @@ MMFnet
 DGCNN is from https://github.com/muhanzhang/pytorch_DGCNN, and ResNet-34 is from https://github.com/GohVh/resnet34-unet.git.
 ### Training and Evaluation
 sh ./tools/train.sh
+
 sh ./tools/test.sh
 
 ### Results
