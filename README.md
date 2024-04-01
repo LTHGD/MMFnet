@@ -25,6 +25,7 @@ MMFnet
 │   │   ├── velodyne
 │   │   ├── label_2
 ```
+The Synthetic Dataset for 3D lane Detection is from https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset?tab=readme-ov-file.
 ### Model Preparation
 DGCNN is from https://github.com/muhanzhang/pytorch_DGCNN, and ResNet-34 is from https://github.com/GohVh/resnet34-unet.git.
 ### Training and Evaluation
